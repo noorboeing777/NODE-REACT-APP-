@@ -16,7 +16,7 @@ app.use(
     maxAge: 30 * 60 * 60 * 1000,
     keys: [keys.cookieKey]
   })
-);//f
+);//ff
 app.use(passport.initialize());
 app.use(passport.session());
 require("./controller/authRoutes")(app);
