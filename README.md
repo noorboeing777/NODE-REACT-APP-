@@ -1,0 +1,12 @@
+THIS IS MY ONE OF THE BIGGEST FUL STACK DEVELOMENT WHERE I HAVE USED FRONT END REACT-REDUX AND BACK END NODEJS
+THIS APP CAN BE USED BY ANI COMPANY WHICH THEN ALLOW THEM TO SEND SURVEYS ABOUT THERE NEW PRODUCTS TO THOUNSANDS OF CUSTOMERS A
+
+AND FOR EACH CUSTOMER IT REQUIRE 1 CREDIT SO YOU NEED TO PAY 1$ FOR IT USING STRIPE AND ON YOUR DASHBOARD YOU CAN KEEP TRACK OF THAT
+ BELOW ARE SOME SCREENSHOTS OF THAT, I AM CURRENTLY WORKING ON ITS HEROKU DEPLOYMENT ,WILL SOON UPLOAD IT HERE
+ SCREENSHOTS:
+ 
+ ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/1.png)
+  ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/2.png)
+   ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/3.png)
+    ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/4.png)
+     ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/5.png)
