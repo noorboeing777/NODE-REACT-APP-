@@ -16,8 +16,14 @@ This app allow any businees to send surveys to thier customers to gain a feedbac
  
  SCREENSHOTS:
  
+ ###### first 2 picture shows survey ic reated and number of likes and dislikes, and in header it shows number of credits i have
+ 
+ 1
  ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/1.png)
+ 2
+ 
   ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/2.png)
+  
    ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/3.png)
     ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/4.png)
      ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/5.png)
