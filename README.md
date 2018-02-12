@@ -1,5 +1,5 @@
 # MERN STACK DEVELOPMENT (MONGODB,EXPRESS,REACT AND NODE)
-### SINGLE PAGE APPLICATION
+### SINGLE PAGE APPLICATION - My favourite, as you can navigate without refreshing the page:)))
 
 This is my biggest full stack developmetn project where i have used react and redux for front end while used express ,node and mongodb for the back end
 
@@ -22,8 +22,15 @@ This app allow any businees to send surveys to thier customers to gain a feedbac
  ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/1.png)
  2
  
-  ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/2.png)
+ ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/2.png)
   
-   ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/3.png)
-    ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/4.png)
-     ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/5.png)
+###### here user can create a survey using redux-form
+
+  ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/3.png)
+   
+ ###### review the survey
+ 
+   ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/4.png)
+    
+  ##### paying
+   ![alt text](https://github.com/noorboeing777/NODE-REACT-APP-/blob/master/sss/5.png)
